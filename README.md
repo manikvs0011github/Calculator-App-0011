@@ -2,3 +2,4 @@
 It is an application, carrying out all mathematic features.
 
 index.html
+styles.css
